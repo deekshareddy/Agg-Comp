@@ -56,6 +56,7 @@ public class MainAC
 		System.out.println(m.os.getName());
 		m.hasA(ch);
 		System.out.println(ch.getName());
+		System.out.println("Aggregation and Composition program");
 	}
 
 }
